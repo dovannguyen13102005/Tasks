@@ -1,2 +1,2 @@
 print("Hi cat")
-print("Hi fish")
+print("Hi hi")
