@@ -8,6 +8,8 @@ class Animal(ABC):
     def talk(self):          #Abstraction
         pass
 
+
+
 #Encapsulation
 class Dog(Animal):
     def __init__(self, name):
